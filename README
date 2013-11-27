@@ -40,7 +40,7 @@ BUILD
   $ cd build
   $ cmake ..
   $ make
-  $ ./doge ../example.ss
+  $ ./doge ../example.shibe
 
 EXAMPLE
 
